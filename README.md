@@ -27,11 +27,11 @@ A simple React component for creating a reviews carousel.
 
 ## Customization
 
-You can customize the styles, animation duration, and other aspects of the carousel by modifying the CSS in the `reviews-carousel.css` file.
+You can customize the styles, animation duration, and other aspects of the carousel by modifying the CSS in the `index.css` file.
 
 ## Live Demo
 
-You can view a live demo of the Reviews Carousel [here](https://your-demo-url.com).
+You can view a live demo of the Reviews Carousel [here](https://slider-pi-silk.vercel.app/).
 
 ## Contact Information
 
